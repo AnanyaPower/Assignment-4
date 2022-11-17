@@ -1,0 +1,23 @@
+img {
+    width: 200px;
+    height: 300px;
+    margin-left: 150px;
+  }
+  
+  iframe {
+    height: 300px;
+    aspect-ratio: 16 / 9;
+    margin-left: 180px;
+  }
+  
+  body {
+    background-color: lightblue;
+  }
+  
+  p {
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    font-family: Georgia, Helvetica, serif;
+  }
+  
